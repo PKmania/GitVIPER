@@ -1,0 +1,6 @@
+framework module Pods_RepoTask {
+  umbrella header "Pods-RepoTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
