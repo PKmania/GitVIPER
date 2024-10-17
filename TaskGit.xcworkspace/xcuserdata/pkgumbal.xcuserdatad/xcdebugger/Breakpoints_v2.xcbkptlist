@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "70E30DF4-2198-459E-8D7A-58E41B1671D3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02A155FB-FCF5-40D0-8F5B-B403435A1400"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/RepositoryFinder-master/Repository Finder/Repository Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "didTapOnRow(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6326405-6016-45AF-9B48-EA22C55F8487"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/RepositoryFinder-master/Repository Finder/Repository Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "didTapOnRowHandler(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36C89481-EEBD-4642-92B5-EFDF7DD6F1C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/RepositoryFinder-master/Repository Finder/Repository Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "showrForksViewHandler(of:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E32E2FA-35BC-4901-8112-22F535B0AEC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/RepositoryFinder-master/Repository Finder/Repository Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "search(queryString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B56031E8-203E-48BF-B02F-E3806D29E25B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/RepositoryFinder-master/Repository Finder/Repository Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "getSearchRespositories(queryString:page:perPageNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B56031E8-203E-48BF-B02F-E3806D29E25B - dfe4a163fec6ab7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskGit.RepoListPresenterImp.getSearchRespositories(queryString: Swift.String, page: Swift.Int, perPageNumber: Swift.Int) -&gt; ()"
+                  moduleName = "TaskGit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pkgumbal/Downloads/RepositoryFinder-master/Repository%20Finder/Repository%20Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "739">
+               </Location>
+               <Location
+                  uuid = "B56031E8-203E-48BF-B02F-E3806D29E25B - dfe4a163fec6ab7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskGit.RepoListPresenterImp.getSearchRespositories(queryString: Swift.String, page: Swift.Int, perPageNumber: Swift.Int) -&gt; ()"
+                  moduleName = "TaskGit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pkgumbal/Downloads/RepositoryFinder-master/Repository%20Finder/Repository%20Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "782">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB728358-8FC2-4D63-A444-55F177BDEBD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/RepositoryFinder-master/Repository Finder/Repository Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F50DDDA6-B9C8-459C-9BB2-C736E38198C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/RepositoryFinder-master/Repository Finder/Repository Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getUserRepositories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F50DDDA6-B9C8-459C-9BB2-C736E38198C8 - c3f44eddaedccf1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskGit.RepoListPresenterImp.getUserRepositories() -&gt; ()"
+                  moduleName = "TaskGit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pkgumbal/Downloads/RepositoryFinder-master/Repository%20Finder/Repository%20Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "F50DDDA6-B9C8-459C-9BB2-C736E38198C8 - c3f44eddaedccf1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskGit.RepoListPresenterImp.getUserRepositories() -&gt; ()"
+                  moduleName = "TaskGit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pkgumbal/Downloads/RepositoryFinder-master/Repository%20Finder/Repository%20Finder/Features/UI/RepoList/Core/Presenter/RepoListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
